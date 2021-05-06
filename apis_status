@@ -1,0 +1,40 @@
+	sendOtpWithSignUp
+	signup
+	sendOtpWithLogin
+	verifyOtp
+	searchCarNo
+	updateCarDescription
+	updatefreeKm
+	updateCarDetails
+	updateCarPrice
+	updateCarAccessories
+	updateCarPreference
+	updateCarPictures
+	updateCarCompleteStatus
+	getCarList
+	getUserProfile
+	getCarBrands
+	updateUserProfile
+	getCarDetailsById
+	checkCarAvailabilty
+	bookCar
+	getBookingRequest
+	getMyBooking
+
+	socialSignIn
+	socialSignUp
+	getbookdetailForOwner         	Need more parameters
+	cancelAcceptBookingById
+	getbookdetailForBookedUser   	Need more parameters
+	favouriteOrUnfavourite
+	getFavouritList
+	reviewCarByBookingUser
+	StartTrip
+	EndTrip
+	RateUser
+
+	changePhoneNumber : [phone]
+	verifyOtpForProfile : [phone otp]
+
+	FOR CHAT :
+	getMessages
